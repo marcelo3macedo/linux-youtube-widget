@@ -103,6 +103,5 @@ youtube-widget/
 
 Para instalar ou reinstalar em sua conta de usuário:
 ```bash
-cd /main/2_personal/plugins/youtube-widget
 ./install.sh
 ```
