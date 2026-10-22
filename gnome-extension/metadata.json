@@ -1,0 +1,8 @@
+{
+  "name": "YouTube Widget & Controller",
+  "description": "Atalho rápido para o YouTube e YouTube Music com pesquisa por nome, controle de reprodução (play/pause/avançar/voltar) e controle de volume.",
+  "uuid": "youtube-widget@marcelo",
+  "shell-version": [ "45", "46", "47", "48", "49", "50", "51" ],
+  "url": "https://github.com",
+  "version": 1
+}

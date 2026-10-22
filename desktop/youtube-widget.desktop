@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=YouTube Music Widget
+Comment=Player dedicado de YouTube Music com pesquisa interna, controles de faixa e volume
+Exec=youtube-widget
+Icon=/main/2_personal/plugins/youtube-widget/app/icons/youtube-widget.svg
+Terminal=false
+Type=Application
+Categories=AudioVideo;Audio;Player;Music;
+Keywords=YouTube;Music;Player;Volume;Widget;Shortcut;Música;
+StartupNotify=true

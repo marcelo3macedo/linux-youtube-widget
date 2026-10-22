@@ -1,0 +1,93 @@
+/* Stylesheet for YouTube Widget GNOME Extension */
+
+.yt-panel-icon {
+    color: #ffffff;
+}
+
+.yt-popup-box {
+    padding: 10px 14px;
+    spacing: 10px;
+    min-width: 300px;
+}
+
+.yt-header-title {
+    font-weight: bold;
+    font-size: 1.1em;
+}
+
+.yt-link-btn {
+    background-color: #FF0000;
+    color: #ffffff;
+    font-weight: bold;
+    border-radius: 6px;
+    padding: 6px 10px;
+}
+
+.yt-link-btn:hover {
+    background-color: #cc0000;
+}
+
+.yt-link-secondary {
+    background-color: rgba(255, 255, 255, 0.12);
+    border-radius: 6px;
+    padding: 6px 10px;
+    font-weight: bold;
+}
+
+.yt-link-secondary:hover {
+    background-color: rgba(255, 255, 255, 0.22);
+}
+
+.yt-search-entry {
+    border-radius: 8px;
+    padding: 6px 10px;
+    background-color: rgba(255, 255, 255, 0.08);
+}
+
+.yt-track-title {
+    font-weight: bold;
+    font-size: 0.95em;
+    text-align: center;
+}
+
+.yt-track-artist {
+    font-size: 0.85em;
+    opacity: 0.75;
+    text-align: center;
+}
+
+.yt-media-btn {
+    min-width: 36px;
+    min-height: 36px;
+    border-radius: 18px;
+    background-color: rgba(255, 255, 255, 0.1);
+    color: #ffffff;
+    padding: 6px;
+}
+
+.yt-media-btn:hover {
+    background-color: rgba(255, 255, 255, 0.2);
+}
+
+.yt-play-btn {
+    min-width: 42px;
+    min-height: 42px;
+    border-radius: 21px;
+    background-color: #FF0000;
+    color: white;
+}
+
+.yt-play-btn:hover {
+    background-color: #cc0000;
+}
+
+.yt-vol-btn {
+    border-radius: 6px;
+    background-color: rgba(255, 255, 255, 0.1);
+    padding: 4px 10px;
+    font-size: 0.85em;
+}
+
+.yt-vol-btn:hover {
+    background-color: rgba(255, 255, 255, 0.2);
+}
